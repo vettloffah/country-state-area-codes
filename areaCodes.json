@@ -323,8 +323,7 @@
     "country": "Ivory Coast"
   },
   "+1 876": {
-    "country": "United States",
-    "state": "Jamaica"
+    "country": "Jamaica"
   },
   "+81": {
     "country": "Japan"
@@ -1752,8 +1751,7 @@
     "stateCode": "CA"
   },
   "+1 658": {
-    "country": "United States",
-    "state": "Jamaica"
+    "country": "Jamaica"
   },
   "+1 659": {
     "country": "United States",
@@ -2536,5 +2534,35 @@
     "country": "United States",
     "state": "Michigan",
     "stateCode": "MI"
+  },
+  "+1 448": {
+    "country": "United States",
+    "state": "Florida",
+    "stateCode": "FL"
+  },
+  "+1 572": {
+    "country": "United States",
+    "state": "Oklahoma",
+    "stateCode": "OK"
+  },
+  "+1 582": {
+    "country": "United States",
+    "state": "Pennsylvania",
+    "stateCode": "PA"
+  },
+  "+1 839": {
+    "country": "United States",
+    "state": "South Carolina",
+    "stateCode": "SC"
+  },
+  "+1 840": {
+    "country": "United States",
+    "state": "California",
+    "stateCode": "CA"
+  },
+  "+1 945": {
+    "country": "United States",
+    "state": "Texas",
+    "stateCode": "TX"
   }
 }
