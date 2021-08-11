@@ -1,0 +1,2540 @@
+{
+  "+7 840": {
+    "country": "Abkhazia"
+  },
+  "+93": {
+    "country": "Afghanistan"
+  },
+  "+355": {
+    "country": "Albania"
+  },
+  "+213": {
+    "country": "Algeria"
+  },
+  "+1 684": {
+    "country": "United States",
+    "state": "American Samoa",
+    "stateCode": "AS"
+  },
+  "+376": {
+    "country": "Andorra"
+  },
+  "+244": {
+    "country": "Angola"
+  },
+  "+1 264": {
+    "country": "United States",
+    "state": "Anguilla"
+  },
+  "+1 268": {
+    "country": "Barbuda"
+  },
+  "+54": {
+    "country": "Argentina"
+  },
+  "+374": {
+    "country": "Armenia"
+  },
+  "+297": {
+    "country": "Aruba"
+  },
+  "+247": {
+    "country": "Ascension"
+  },
+  "+61": {
+    "country": "Cocos-Keeling Islands"
+  },
+  "+672": {
+    "country": "Norfolk Island"
+  },
+  "+43": {
+    "country": "Austria"
+  },
+  "+994": {
+    "country": "Azerbaijan"
+  },
+  "+1 242": {
+    "country": "United States",
+    "state": "Bahamas"
+  },
+  "+973": {
+    "country": "Bahrain"
+  },
+  "+880": {
+    "country": "Bangladesh"
+  },
+  "+1 246": {
+    "country": "United States",
+    "state": "Barbados"
+  },
+  "+375": {
+    "country": "Belarus"
+  },
+  "+32": {
+    "country": "Belgium"
+  },
+  "+501": {
+    "country": "Belize"
+  },
+  "+229": {
+    "country": "Benin"
+  },
+  "+1 441": {
+    "country": "United States",
+    "state": "Bermuda"
+  },
+  "+975": {
+    "country": "Bhutan"
+  },
+  "+591": {
+    "country": "Bolivia"
+  },
+  "+387": {
+    "country": "Bosnia and Herzegovina"
+  },
+  "+267": {
+    "country": "Botswana"
+  },
+  "+55": {
+    "country": "Brazil"
+  },
+  "+246": {
+    "country": "Diego Garcia"
+  },
+  "+1 284": {
+    "country": "British Virgin Islands"
+  },
+  "+673": {
+    "country": "Brunei"
+  },
+  "+359": {
+    "country": "Bulgaria"
+  },
+  "+226": {
+    "country": "Burkina Faso"
+  },
+  "+257": {
+    "country": "Burundi"
+  },
+  "+855": {
+    "country": "Cambodia"
+  },
+  "+237": {
+    "country": "Cameroon"
+  },
+  "+238": {
+    "country": "Cape Verde"
+  },
+  "+ 345": {
+    "country": "Cayman Islands"
+  },
+  "+236": {
+    "country": "Central African Republic"
+  },
+  "+235": {
+    "country": "Chad"
+  },
+  "+56": {
+    "country": "Easter Island"
+  },
+  "+86": {
+    "country": "China"
+  },
+  "+57": {
+    "country": "Colombia"
+  },
+  "+269": {
+    "country": "Comoros"
+  },
+  "+242": {
+    "country": "Congo"
+  },
+  "+243": {
+    "country": "Congo, Dem. Rep. of (Zaire)"
+  },
+  "+682": {
+    "country": "Cook Islands"
+  },
+  "+506": {
+    "country": "Costa Rica"
+  },
+  "+385": {
+    "country": "Croatia"
+  },
+  "+53": {
+    "country": "Cuba"
+  },
+  "+599": {
+    "country": "Netherlands Antilles"
+  },
+  "+537": {
+    "country": "Cyprus"
+  },
+  "+420": {
+    "country": "Czech Republic"
+  },
+  "+45": {
+    "country": "Denmark"
+  },
+  "+253": {
+    "country": "Djibouti"
+  },
+  "+1 767": {
+    "country": "United States",
+    "state": "Dominica"
+  },
+  "+1 809": {
+    "country": "United States",
+    "state": "Dominican Republic"
+  },
+  "+670": {
+    "country": "Timor Leste"
+  },
+  "+593": {
+    "country": "Ecuador"
+  },
+  "+20": {
+    "country": "Egypt"
+  },
+  "+503": {
+    "country": "El Salvador"
+  },
+  "+240": {
+    "country": "Equatorial Guinea"
+  },
+  "+291": {
+    "country": "Eritrea"
+  },
+  "+372": {
+    "country": "Estonia"
+  },
+  "+251": {
+    "country": "Ethiopia"
+  },
+  "+500": {
+    "country": "South Georgia and the South Sandwich Islands"
+  },
+  "+298": {
+    "country": "Faroe Islands"
+  },
+  "+679": {
+    "country": "Fiji"
+  },
+  "+358": {
+    "country": "Finland"
+  },
+  "+33": {
+    "country": "France"
+  },
+  "+596": {
+    "country": "Martinique"
+  },
+  "+594": {
+    "country": "French Guiana"
+  },
+  "+689": {
+    "country": "French Polynesia"
+  },
+  "+241": {
+    "country": "Gabon"
+  },
+  "+220": {
+    "country": "Gambia"
+  },
+  "+995": {
+    "country": "Georgia"
+  },
+  "+49": {
+    "country": "Germany"
+  },
+  "+233": {
+    "country": "Ghana"
+  },
+  "+350": {
+    "country": "Gibraltar"
+  },
+  "+30": {
+    "country": "Greece"
+  },
+  "+299": {
+    "country": "Greenland"
+  },
+  "+1 473": {
+    "country": "United States",
+    "state": "Grenada"
+  },
+  "+590": {
+    "country": "Guadeloupe"
+  },
+  "+1 671": {
+    "country": "United States",
+    "state": "Guam",
+    "stateCode": "GU"
+  },
+  "+502": {
+    "country": "Guatemala"
+  },
+  "+224": {
+    "country": "Guinea"
+  },
+  "+245": {
+    "country": "Guinea-Bissau"
+  },
+  "+595": {
+    "country": "Paraguay"
+  },
+  "+509": {
+    "country": "Haiti"
+  },
+  "+504": {
+    "country": "Honduras"
+  },
+  "+852": {
+    "country": "Hong Kong SAR China"
+  },
+  "+36": {
+    "country": "Hungary"
+  },
+  "+354": {
+    "country": "Iceland"
+  },
+  "+91": {
+    "country": "India"
+  },
+  "+62": {
+    "country": "Indonesia"
+  },
+  "+98": {
+    "country": "Iran"
+  },
+  "+964": {
+    "country": "Iraq"
+  },
+  "+353": {
+    "country": "Ireland"
+  },
+  "+972": {
+    "country": "Israel"
+  },
+  "+39": {
+    "country": "Italy"
+  },
+  "+225": {
+    "country": "Ivory Coast"
+  },
+  "+1 876": {
+    "country": "United States",
+    "state": "Jamaica"
+  },
+  "+81": {
+    "country": "Japan"
+  },
+  "+962": {
+    "country": "Jordan"
+  },
+  "+7 7": {
+    "country": "Kazakhstan"
+  },
+  "+254": {
+    "country": "Kenya"
+  },
+  "+686": {
+    "country": "Kiribati"
+  },
+  "+965": {
+    "country": "Kuwait"
+  },
+  "+996": {
+    "country": "Kyrgyzstan"
+  },
+  "+856": {
+    "country": "Laos"
+  },
+  "+371": {
+    "country": "Latvia"
+  },
+  "+961": {
+    "country": "Lebanon"
+  },
+  "+266": {
+    "country": "Lesotho"
+  },
+  "+231": {
+    "country": "Liberia"
+  },
+  "+218": {
+    "country": "Libya"
+  },
+  "+423": {
+    "country": "Liechtenstein"
+  },
+  "+370": {
+    "country": "Lithuania"
+  },
+  "+352": {
+    "country": "Luxembourg"
+  },
+  "+853": {
+    "country": "Macau SAR China"
+  },
+  "+389": {
+    "country": "Macedonia"
+  },
+  "+261": {
+    "country": "Madagascar"
+  },
+  "+265": {
+    "country": "Malawi"
+  },
+  "+60": {
+    "country": "Malaysia"
+  },
+  "+960": {
+    "country": "Maldives"
+  },
+  "+223": {
+    "country": "Mali"
+  },
+  "+356": {
+    "country": "Malta"
+  },
+  "+692": {
+    "country": "Marshall Islands"
+  },
+  "+222": {
+    "country": "Mauritania"
+  },
+  "+230": {
+    "country": "Mauritius"
+  },
+  "+262": {
+    "country": "Reunion"
+  },
+  "+52": {
+    "country": "Mexico"
+  },
+  "+691": {
+    "country": "Micronesia"
+  },
+  "+1 808": {
+    "country": "United States",
+    "state": "Hawaii",
+    "stateCode": "HI"
+  },
+  "+373": {
+    "country": "Moldova"
+  },
+  "+377": {
+    "country": "Monaco"
+  },
+  "+976": {
+    "country": "Mongolia"
+  },
+  "+382": {
+    "country": "Montenegro"
+  },
+  "+1664": {
+    "country": "Montserrat"
+  },
+  "+212": {
+    "country": "Morocco"
+  },
+  "+95": {
+    "country": "Myanmar"
+  },
+  "+264": {
+    "country": "Namibia"
+  },
+  "+674": {
+    "country": "Nauru"
+  },
+  "+977": {
+    "country": "Nepal"
+  },
+  "+31": {
+    "country": "Netherlands"
+  },
+  "+1 869": {
+    "country": "Nevis"
+  },
+  "+687": {
+    "country": "New Caledonia"
+  },
+  "+64": {
+    "country": "New Zealand"
+  },
+  "+505": {
+    "country": "Nicaragua"
+  },
+  "+227": {
+    "country": "Niger"
+  },
+  "+234": {
+    "country": "Nigeria"
+  },
+  "+683": {
+    "country": "Niue"
+  },
+  "+850": {
+    "country": "North Korea"
+  },
+  "+1 670": {
+    "country": "Northern Mariana Islands"
+  },
+  "+47": {
+    "country": "Norway"
+  },
+  "+968": {
+    "country": "Oman"
+  },
+  "+92": {
+    "country": "Pakistan"
+  },
+  "+680": {
+    "country": "Palau"
+  },
+  "+970": {
+    "country": "Palestinian Territory"
+  },
+  "+507": {
+    "country": "Panama"
+  },
+  "+675": {
+    "country": "Papua New Guinea"
+  },
+  "+51": {
+    "country": "Peru"
+  },
+  "+63": {
+    "country": "Philippines"
+  },
+  "+48": {
+    "country": "Poland"
+  },
+  "+351": {
+    "country": "Portugal"
+  },
+  "+1 787": {
+    "country": "United States",
+    "state": "Puerto Rico",
+    "stateCode": "PR"
+  },
+  "+974": {
+    "country": "Qatar"
+  },
+  "+40": {
+    "country": "Romania"
+  },
+  "+7": {
+    "country": "Russia"
+  },
+  "+250": {
+    "country": "Rwanda"
+  },
+  "+685": {
+    "country": "Samoa"
+  },
+  "+378": {
+    "country": "San Marino"
+  },
+  "+966": {
+    "country": "Saudi Arabia"
+  },
+  "+221": {
+    "country": "Senegal"
+  },
+  "+381": {
+    "country": "Serbia"
+  },
+  "+248": {
+    "country": "Seychelles"
+  },
+  "+232": {
+    "country": "Sierra Leone"
+  },
+  "+65": {
+    "country": "Singapore"
+  },
+  "+421": {
+    "country": "Slovakia"
+  },
+  "+386": {
+    "country": "Slovenia"
+  },
+  "+677": {
+    "country": "Solomon Islands"
+  },
+  "+27": {
+    "country": "South Africa"
+  },
+  "+82": {
+    "country": "South Korea"
+  },
+  "+34": {
+    "country": "Spain"
+  },
+  "+94": {
+    "country": "Sri Lanka"
+  },
+  "+249": {
+    "country": "Sudan"
+  },
+  "+597": {
+    "country": "Suriname"
+  },
+  "+268": {
+    "country": "Swaziland"
+  },
+  "+46": {
+    "country": "Sweden"
+  },
+  "+41": {
+    "country": "Switzerland"
+  },
+  "+963": {
+    "country": "Syria"
+  },
+  "+886": {
+    "country": "Taiwan"
+  },
+  "+992": {
+    "country": "Tajikistan"
+  },
+  "+255": {
+    "country": "Zanzibar"
+  },
+  "+66": {
+    "country": "Thailand"
+  },
+  "+228": {
+    "country": "Togo"
+  },
+  "+690": {
+    "country": "Tokelau"
+  },
+  "+676": {
+    "country": "Tonga"
+  },
+  "+1 868": {
+    "country": "Trinidad and Tobago"
+  },
+  "+216": {
+    "country": "Tunisia"
+  },
+  "+90": {
+    "country": "Turkey"
+  },
+  "+993": {
+    "country": "Turkmenistan"
+  },
+  "+1 649": {
+    "country": "Turks and Caicos Islands"
+  },
+  "+688": {
+    "country": "Tuvalu"
+  },
+  "+1 340": {
+    "country": "United States",
+    "state": "United States Virgin Islands"
+  },
+  "+256": {
+    "country": "Uganda"
+  },
+  "+380": {
+    "country": "Ukraine"
+  },
+  "+971": {
+    "country": "United Arab Emirates"
+  },
+  "+44": {
+    "country": "United Kingdom"
+  },
+  "+598": {
+    "country": "Uruguay"
+  },
+  "+998": {
+    "country": "Uzbekistan"
+  },
+  "+678": {
+    "country": "Vanuatu"
+  },
+  "+58": {
+    "country": "Venezuela"
+  },
+  "+84": {
+    "country": "Vietnam"
+  },
+  "+681": {
+    "country": "Wallis and Futuna"
+  },
+  "+967": {
+    "country": "Yemen"
+  },
+  "+260": {
+    "country": "Zambia"
+  },
+  "+263": {
+    "country": "Zimbabwe"
+  },
+  "+1 201": {
+    "country": "United States",
+    "state": "New Jersey",
+    "stateCode": "NJ"
+  },
+  "+1 202": {
+    "country": "United States",
+    "state": "District of Columbia",
+    "stateCode": "D.C."
+  },
+  "+1 203": {
+    "country": "United States",
+    "state": "Connecticut",
+    "stateCode": "CT"
+  },
+  "+1 204": {
+    "country": "Canada",
+    "state": "Manitoba"
+  },
+  "+1 205": {
+    "country": "United States",
+    "state": "Alabama",
+    "stateCode": "AL"
+  },
+  "+1 206": {
+    "country": "United States",
+    "state": "Washington",
+    "stateCode": "WA"
+  },
+  "+1 207": {
+    "country": "United States",
+    "state": "Maine",
+    "stateCode": "ME"
+  },
+  "+1 208": {
+    "country": "United States",
+    "state": "Idaho",
+    "stateCode": "ID"
+  },
+  "+1 209": {
+    "country": "United States",
+    "state": "California",
+    "stateCode": "CA"
+  },
+  "+1 210": {
+    "country": "United States",
+    "state": "Texas",
+    "stateCode": "TX"
+  },
+  "+1 212": {
+    "country": "United States",
+    "state": "New York",
+    "stateCode": "NY"
+  },
+  "+1 213": {
+    "country": "United States",
+    "state": "California",
+    "stateCode": "CA"
+  },
+  "+1 214": {
+    "country": "United States",
+    "state": "Texas",
+    "stateCode": "TX"
+  },
+  "+1 215": {
+    "country": "United States",
+    "state": "Pennsylvania",
+    "stateCode": "PA"
+  },
+  "+1 216": {
+    "country": "United States",
+    "state": "Ohio",
+    "stateCode": "OH"
+  },
+  "+1 217": {
+    "country": "United States",
+    "state": "Illinois",
+    "stateCode": "IL"
+  },
+  "+1 218": {
+    "country": "United States",
+    "state": "Minnesota",
+    "stateCode": "MN"
+  },
+  "+1 219": {
+    "country": "United States",
+    "state": "Indiana",
+    "stateCode": "IN"
+  },
+  "+1 220": {
+    "country": "United States",
+    "state": "Ohio",
+    "stateCode": "OH"
+  },
+  "+1 223": {
+    "country": "United States",
+    "state": "Pennsylvania",
+    "stateCode": "PA"
+  },
+  "+1 224": {
+    "country": "United States",
+    "state": "Illinois",
+    "stateCode": "IL"
+  },
+  "+1 225": {
+    "country": "United States",
+    "state": "Louisiana",
+    "stateCode": "LA"
+  },
+  "+1 226": {
+    "country": "Canada",
+    "state": "Ontario"
+  },
+  "+1 227": {
+    "country": "United States",
+    "state": "Maryland",
+    "stateCode": "MD"
+  },
+  "+1 228": {
+    "country": "United States",
+    "state": "Mississippi",
+    "stateCode": "MS"
+  },
+  "+1 229": {
+    "country": "United States",
+    "state": "Georgia",
+    "stateCode": "GA"
+  },
+  "+1 231": {
+    "country": "United States",
+    "state": "Michigan",
+    "stateCode": "MI"
+  },
+  "+1 234": {
+    "country": "United States",
+    "state": "Ohio",
+    "stateCode": "OH"
+  },
+  "+1 236": {
+    "country": "Canada",
+    "state": "British Columbia"
+  },
+  "+1 239": {
+    "country": "United States",
+    "state": "Florida",
+    "stateCode": "FL"
+  },
+  "+1 240": {
+    "country": "United States",
+    "state": "Maryland",
+    "stateCode": "MD"
+  },
+  "+1 248": {
+    "country": "United States",
+    "state": "Michigan",
+    "stateCode": "MI"
+  },
+  "+1 249": {
+    "country": "Canada",
+    "state": "Ontario"
+  },
+  "+1 250": {
+    "country": "Canada",
+    "state": "British Columbia"
+  },
+  "+1 251": {
+    "country": "United States",
+    "state": "Alabama",
+    "stateCode": "AL"
+  },
+  "+1 252": {
+    "country": "United States",
+    "state": "North Carolina",
+    "stateCode": "NC"
+  },
+  "+1 253": {
+    "country": "United States",
+    "state": "Washington",
+    "stateCode": "WA"
+  },
+  "+1 254": {
+    "country": "United States",
+    "state": "Texas",
+    "stateCode": "TX"
+  },
+  "+1 256": {
+    "country": "United States",
+    "state": "Alabama",
+    "stateCode": "AL"
+  },
+  "+1 260": {
+    "country": "United States",
+    "state": "Indiana",
+    "stateCode": "IN"
+  },
+  "+1 262": {
+    "country": "United States",
+    "state": "Wisconsin",
+    "stateCode": "WI"
+  },
+  "+1 267": {
+    "country": "United States",
+    "state": "Pennsylvania",
+    "stateCode": "PA"
+  },
+  "+1 269": {
+    "country": "United States",
+    "state": "Michigan",
+    "stateCode": "MI"
+  },
+  "+1 270": {
+    "country": "United States",
+    "state": "Kentucky",
+    "stateCode": "KY"
+  },
+  "+1 272": {
+    "country": "United States",
+    "state": "Pennsylvania",
+    "stateCode": "PA"
+  },
+  "+1 274": {
+    "country": "United States",
+    "state": "Wisconsin",
+    "stateCode": "WI"
+  },
+  "+1 276": {
+    "country": "United States",
+    "state": "Virginia",
+    "stateCode": "VA"
+  },
+  "+1 279": {
+    "country": "United States",
+    "state": "California",
+    "stateCode": "CA"
+  },
+  "+1 281": {
+    "country": "United States",
+    "state": "Texas",
+    "stateCode": "TX"
+  },
+  "+1 283": {
+    "country": "United States",
+    "state": "Ohio",
+    "stateCode": "OH"
+  },
+  "+1 289": {
+    "country": "United States",
+    "state": "Ontario"
+  },
+  "+1 301": {
+    "country": "United States",
+    "state": "Maryland",
+    "stateCode": "MD"
+  },
+  "+1 302": {
+    "country": "United States",
+    "state": "Delaware",
+    "stateCode": "DE"
+  },
+  "+1 303": {
+    "country": "United States",
+    "state": "Colorado",
+    "stateCode": "CO"
+  },
+  "+1 304": {
+    "country": "United States",
+    "state": "West Virginia",
+    "stateCode": "WV"
+  },
+  "+1 305": {
+    "country": "United States",
+    "state": "Florida",
+    "stateCode": "FL"
+  },
+  "+1 306": {
+    "country": "Canada",
+    "state": "Saskatchewan"
+  },
+  "+1 307": {
+    "country": "United States",
+    "state": "Wyoming",
+    "stateCode": "WY"
+  },
+  "+1 308": {
+    "country": "United States",
+    "state": "Nebraska",
+    "stateCode": "NE"
+  },
+  "+1 309": {
+    "country": "United States",
+    "state": "Illinois",
+    "stateCode": "IL"
+  },
+  "+1 310": {
+    "country": "United States",
+    "state": "California",
+    "stateCode": "CA"
+  },
+  "+1 312": {
+    "country": "United States",
+    "state": "Illinois",
+    "stateCode": "IL"
+  },
+  "+1 313": {
+    "country": "United States",
+    "state": "Michigan",
+    "stateCode": "MI"
+  },
+  "+1 314": {
+    "country": "United States",
+    "state": "Missouri",
+    "stateCode": "MO"
+  },
+  "+1 315": {
+    "country": "United States",
+    "state": "New York",
+    "stateCode": "NY"
+  },
+  "+1 316": {
+    "country": "United States",
+    "state": "Kansas",
+    "stateCode": "KS"
+  },
+  "+1 317": {
+    "country": "United States",
+    "state": "Indiana",
+    "stateCode": "IN"
+  },
+  "+1 318": {
+    "country": "United States",
+    "state": "Louisiana",
+    "stateCode": "LA"
+  },
+  "+1 319": {
+    "country": "United States",
+    "state": "Iowa",
+    "stateCode": "IA"
+  },
+  "+1 320": {
+    "country": "United States",
+    "state": "Minnesota",
+    "stateCode": "MN"
+  },
+  "+1 321": {
+    "country": "United States",
+    "state": "Florida",
+    "stateCode": "FL"
+  },
+  "+1 323": {
+    "country": "United States",
+    "state": "California",
+    "stateCode": "CA"
+  },
+  "+1 325": {
+    "country": "United States",
+    "state": "Texas",
+    "stateCode": "TX"
+  },
+  "+1 326": {
+    "country": "United States",
+    "state": "Ohio",
+    "stateCode": "OH"
+  },
+  "+1 327": {
+    "country": "United States",
+    "state": "Arkansas",
+    "stateCode": "AR"
+  },
+  "+1 330": {
+    "country": "United States",
+    "state": "Ohio",
+    "stateCode": "OH"
+  },
+  "+1 331": {
+    "country": "United States",
+    "state": "Illinois",
+    "stateCode": "IL"
+  },
+  "+1 332": {
+    "country": "United States",
+    "state": "New York",
+    "stateCode": "NY"
+  },
+  "+1 334": {
+    "country": "United States",
+    "state": "Alabama",
+    "stateCode": "AL"
+  },
+  "+1 336": {
+    "country": "United States",
+    "state": "North Carolina",
+    "stateCode": "NC"
+  },
+  "+1 337": {
+    "country": "United States",
+    "state": "Louisiana",
+    "stateCode": "LA"
+  },
+  "+1 339": {
+    "country": "United States",
+    "state": "Massachusetts",
+    "stateCode": "MA"
+  },
+  "+1 341": {
+    "country": "United States",
+    "state": "California",
+    "stateCode": "CA"
+  },
+  "+1 343": {
+    "country": "United States",
+    "state": "Ontario"
+  },
+  "+1 346": {
+    "country": "United States",
+    "state": "Texas",
+    "stateCode": "TX"
+  },
+  "+1 347": {
+    "country": "United States",
+    "state": "New York",
+    "stateCode": "NY"
+  },
+  "+1 351": {
+    "country": "United States",
+    "state": "Massachusetts",
+    "stateCode": "MA"
+  },
+  "+1 352": {
+    "country": "United States",
+    "state": "Florida",
+    "stateCode": "FL"
+  },
+  "+1 360": {
+    "country": "United States",
+    "state": "Washington",
+    "stateCode": "WA"
+  },
+  "+1 361": {
+    "country": "United States",
+    "state": "Texas",
+    "stateCode": "TX"
+  },
+  "+1 364": {
+    "country": "United States",
+    "state": "Kentucky",
+    "stateCode": "KY"
+  },
+  "+1 365": {
+    "country": "Canada",
+    "state": "Ontario"
+  },
+  "+1 367": {
+    "country": "Canada",
+    "state": "Quebec"
+  },
+  "+1 380": {
+    "country": "United States",
+    "state": "Ohio",
+    "stateCode": "OH"
+  },
+  "+1 385": {
+    "country": "United States",
+    "state": "Utah",
+    "stateCode": "UT"
+  },
+  "+1 386": {
+    "country": "United States",
+    "state": "Florida",
+    "stateCode": "FL"
+  },
+  "+1 401": {
+    "country": "United States",
+    "state": "Rhode Island",
+    "stateCode": "RI"
+  },
+  "+1 402": {
+    "country": "United States",
+    "state": "Nebraska",
+    "stateCode": "NE"
+  },
+  "+1 403": {
+    "country": "United States",
+    "state": "Alberta"
+  },
+  "+1 404": {
+    "country": "United States",
+    "state": "Georgia",
+    "stateCode": "GA"
+  },
+  "+1 405": {
+    "country": "United States",
+    "state": "Oklahoma",
+    "stateCode": "OK"
+  },
+  "+1 406": {
+    "country": "United States",
+    "state": "Montana",
+    "stateCode": "MT"
+  },
+  "+1 407": {
+    "country": "United States",
+    "state": "Florida",
+    "stateCode": "FL"
+  },
+  "+1 408": {
+    "country": "United States",
+    "state": "California",
+    "stateCode": "CA"
+  },
+  "+1 409": {
+    "country": "United States",
+    "state": "Texas",
+    "stateCode": "TX"
+  },
+  "+1 410": {
+    "country": "United States",
+    "state": "Maryland",
+    "stateCode": "MD"
+  },
+  "+1 412": {
+    "country": "United States",
+    "state": "Pennsylvania",
+    "stateCode": "PA"
+  },
+  "+1 413": {
+    "country": "United States",
+    "state": "Massachusetts",
+    "stateCode": "MA"
+  },
+  "+1 414": {
+    "country": "United States",
+    "state": "Wisconsin",
+    "stateCode": "WI"
+  },
+  "+1 415": {
+    "country": "United States",
+    "state": "California",
+    "stateCode": "CA"
+  },
+  "+1 416": {
+    "country": "Canada",
+    "state": "Ontario"
+  },
+  "+1 417": {
+    "country": "United States",
+    "state": "Missouri",
+    "stateCode": "MO"
+  },
+  "+1 418": {
+    "country": "Canada",
+    "state": "Quebec"
+  },
+  "+1 419": {
+    "country": "United States",
+    "state": "Ohio",
+    "stateCode": "OH"
+  },
+  "+1 423": {
+    "country": "United States",
+    "state": "Tennessee",
+    "stateCode": "TN"
+  },
+  "+1 424": {
+    "country": "United States",
+    "state": "California",
+    "stateCode": "CA"
+  },
+  "+1 425": {
+    "country": "United States",
+    "state": "Washington",
+    "stateCode": "WA"
+  },
+  "+1 428": {
+    "country": "Canada",
+    "state": "New Brunswick"
+  },
+  "+1 430": {
+    "country": "United States",
+    "state": "Texas",
+    "stateCode": "TX"
+  },
+  "+1 431": {
+    "country": "United States",
+    "state": "Manitoba"
+  },
+  "+1 432": {
+    "country": "United States",
+    "state": "Texas",
+    "stateCode": "TX"
+  },
+  "+1 434": {
+    "country": "United States",
+    "state": "Virginia",
+    "stateCode": "VA"
+  },
+  "+1 435": {
+    "country": "United States",
+    "state": "Utah",
+    "stateCode": "UT"
+  },
+  "+1 437": {
+    "country": "Canada",
+    "state": "Ontario"
+  },
+  "+1 438": {
+    "country": "Canada",
+    "state": "Quebec"
+  },
+  "+1 440": {
+    "country": "United States",
+    "state": "Ohio",
+    "stateCode": "OH"
+  },
+  "+1 442": {
+    "country": "United States",
+    "state": "California",
+    "stateCode": "CA"
+  },
+  "+1 443": {
+    "country": "United States",
+    "state": "Maryland",
+    "stateCode": "MD"
+  },
+  "+1 445": {
+    "country": "United States",
+    "state": "Pennsylvania",
+    "stateCode": "PA"
+  },
+  "+1 447": {
+    "country": "United States",
+    "state": "Illinois",
+    "stateCode": "IL"
+  },
+  "+1 450": {
+    "country": "Canada",
+    "state": "Quebec"
+  },
+  "+1 458": {
+    "country": "United States",
+    "state": "Oregon",
+    "stateCode": "OR"
+  },
+  "+1 463": {
+    "country": "United States",
+    "state": "Indiana",
+    "stateCode": "IN"
+  },
+  "+1 464": {
+    "country": "United States",
+    "state": "Illinois",
+    "stateCode": "IL"
+  },
+  "+1 469": {
+    "country": "United States",
+    "state": "Texas",
+    "stateCode": "TX"
+  },
+  "+1 470": {
+    "country": "United States",
+    "state": "Georgia",
+    "stateCode": "GA"
+  },
+  "+1 475": {
+    "country": "United States",
+    "state": "Connecticut",
+    "stateCode": "CT"
+  },
+  "+1 478": {
+    "country": "United States",
+    "state": "Georgia",
+    "stateCode": "GA"
+  },
+  "+1 479": {
+    "country": "United States",
+    "state": "Arkansas",
+    "stateCode": "AR"
+  },
+  "+1 480": {
+    "country": "United States",
+    "state": "Arizona",
+    "stateCode": "AZ"
+  },
+  "+1 484": {
+    "country": "United States",
+    "state": "Pennsylvania",
+    "stateCode": "PA"
+  },
+  "+1 501": {
+    "country": "United States",
+    "state": "Arkansas",
+    "stateCode": "AR"
+  },
+  "+1 502": {
+    "country": "United States",
+    "state": "Kentucky",
+    "stateCode": "KY"
+  },
+  "+1 503": {
+    "country": "United States",
+    "state": "Oregon",
+    "stateCode": "OR"
+  },
+  "+1 504": {
+    "country": "United States",
+    "state": "Louisiana",
+    "stateCode": "LA"
+  },
+  "+1 505": {
+    "country": "United States",
+    "state": "New Mexico",
+    "stateCode": "NM"
+  },
+  "+1 506": {
+    "country": "Canada",
+    "state": "New Brunswick"
+  },
+  "+1 507": {
+    "country": "United States",
+    "state": "Minnesota",
+    "stateCode": "MN"
+  },
+  "+1 508": {
+    "country": "United States",
+    "state": "Massachusetts",
+    "stateCode": "MA"
+  },
+  "+1 509": {
+    "country": "United States",
+    "state": "Washington",
+    "stateCode": "WA"
+  },
+  "+1 510": {
+    "country": "United States",
+    "state": "California",
+    "stateCode": "CA"
+  },
+  "+1 512": {
+    "country": "United States",
+    "state": "Texas",
+    "stateCode": "TX"
+  },
+  "+1 513": {
+    "country": "United States",
+    "state": "Ohio",
+    "stateCode": "OH"
+  },
+  "+1 514": {
+    "country": "Canada",
+    "state": "Quebec"
+  },
+  "+1 515": {
+    "country": "United States",
+    "state": "Iowa",
+    "stateCode": "IA"
+  },
+  "+1 516": {
+    "country": "United States",
+    "state": "New York",
+    "stateCode": "NY"
+  },
+  "+1 517": {
+    "country": "United States",
+    "state": "Michigan",
+    "stateCode": "MI"
+  },
+  "+1 518": {
+    "country": "United States",
+    "state": "New York",
+    "stateCode": "NY"
+  },
+  "+1 519": {
+    "country": "Canada",
+    "state": "Ontario"
+  },
+  "+1 520": {
+    "country": "United States",
+    "state": "Arizona",
+    "stateCode": "AZ"
+  },
+  "+1 530": {
+    "country": "United States",
+    "state": "California",
+    "stateCode": "CA"
+  },
+  "+1 531": {
+    "country": "United States",
+    "state": "Nebraska",
+    "stateCode": "NE"
+  },
+  "+1 534": {
+    "country": "United States",
+    "state": "Wisconsin",
+    "stateCode": "WI"
+  },
+  "+1 539": {
+    "country": "United States",
+    "state": "Oklahoma",
+    "stateCode": "OK"
+  },
+  "+1 540": {
+    "country": "United States",
+    "state": "Virginia",
+    "stateCode": "VA"
+  },
+  "+1 541": {
+    "country": "United States",
+    "state": "Oregon",
+    "stateCode": "OR"
+  },
+  "+1 548": {
+    "country": "Canada",
+    "state": "Ontario"
+  },
+  "+1 551": {
+    "country": "United States",
+    "state": "New Jersey",
+    "stateCode": "NJ"
+  },
+  "+1 557": {
+    "country": "United States",
+    "state": "Missouri",
+    "stateCode": "MO"
+  },
+  "+1 559": {
+    "country": "United States",
+    "state": "California",
+    "stateCode": "CA"
+  },
+  "+1 561": {
+    "country": "United States",
+    "state": "Florida",
+    "stateCode": "FL"
+  },
+  "+1 562": {
+    "country": "United States",
+    "state": "California",
+    "stateCode": "CA"
+  },
+  "+1 563": {
+    "country": "United States",
+    "state": "Iowa",
+    "stateCode": "IA"
+  },
+  "+1 564": {
+    "country": "United States",
+    "state": "Washington",
+    "stateCode": "WA"
+  },
+  "+1 567": {
+    "country": "United States",
+    "state": "Ohio",
+    "stateCode": "OH"
+  },
+  "+1 570": {
+    "country": "United States",
+    "state": "Pennsylvania",
+    "stateCode": "PA"
+  },
+  "+1 571": {
+    "country": "United States",
+    "state": "Virginia",
+    "stateCode": "VA"
+  },
+  "+1 573": {
+    "country": "United States",
+    "state": "Missouri",
+    "stateCode": "MO"
+  },
+  "+1 574": {
+    "country": "United States",
+    "state": "Indiana",
+    "stateCode": "IN"
+  },
+  "+1 575": {
+    "country": "United States",
+    "state": "New Mexico",
+    "stateCode": "NM"
+  },
+  "+1 579": {
+    "country": "Canada",
+    "state": "Quebec"
+  },
+  "+1 580": {
+    "country": "United States",
+    "state": "Oklahoma",
+    "stateCode": "OK"
+  },
+  "+1 581": {
+    "country": "Canada",
+    "state": "Quebec"
+  },
+  "+1 585": {
+    "country": "United States",
+    "state": "New York",
+    "stateCode": "NY"
+  },
+  "+1 586": {
+    "country": "United States",
+    "state": "Michigan",
+    "stateCode": "MI"
+  },
+  "+1 587": {
+    "country": "Canada",
+    "state": "Alberta"
+  },
+  "+1 601": {
+    "country": "United States",
+    "state": "Mississippi",
+    "stateCode": "MS"
+  },
+  "+1 602": {
+    "country": "United States",
+    "state": "Arizona",
+    "stateCode": "AZ"
+  },
+  "+1 603": {
+    "country": "United States",
+    "state": "New Hampshire",
+    "stateCode": "NH"
+  },
+  "+1 604": {
+    "country": "Canada",
+    "state": "British Columbia"
+  },
+  "+1 605": {
+    "country": "United States",
+    "state": "South Dakota",
+    "stateCode": "SD"
+  },
+  "+1 606": {
+    "country": "United States",
+    "state": "Kentucky",
+    "stateCode": "KY"
+  },
+  "+1 607": {
+    "country": "United States",
+    "state": "New York",
+    "stateCode": "NY"
+  },
+  "+1 608": {
+    "country": "United States",
+    "state": "Wisconsin",
+    "stateCode": "WI"
+  },
+  "+1 609": {
+    "country": "United States",
+    "state": "New Jersey",
+    "stateCode": "NJ"
+  },
+  "+1 610": {
+    "country": "United States",
+    "state": "Pennsylvania",
+    "stateCode": "PA"
+  },
+  "+1 612": {
+    "country": "United States",
+    "state": "Minnesota",
+    "stateCode": "MN"
+  },
+  "+1 613": {
+    "country": "United States",
+    "state": "Ontario"
+  },
+  "+1 614": {
+    "country": "United States",
+    "state": "Ohio",
+    "stateCode": "OH"
+  },
+  "+1 615": {
+    "country": "United States",
+    "state": "Tennessee",
+    "stateCode": "TN"
+  },
+  "+1 616": {
+    "country": "United States",
+    "state": "Michigan",
+    "stateCode": "MI"
+  },
+  "+1 617": {
+    "country": "United States",
+    "state": "Massachusetts",
+    "stateCode": "MA"
+  },
+  "+1 618": {
+    "country": "United States",
+    "state": "Illinois",
+    "stateCode": "IL"
+  },
+  "+1 619": {
+    "country": "United States",
+    "state": "California",
+    "stateCode": "CA"
+  },
+  "+1 620": {
+    "country": "United States",
+    "state": "Kansas",
+    "stateCode": "KS"
+  },
+  "+1 622": {
+    "country": "United States",
+    "state": "Canada"
+  },
+  "+1 623": {
+    "country": "United States",
+    "state": "Arizona",
+    "stateCode": "AZ"
+  },
+  "+1 626": {
+    "country": "United States",
+    "state": "California",
+    "stateCode": "CA"
+  },
+  "+1 628": {
+    "country": "United States",
+    "state": "California",
+    "stateCode": "CA"
+  },
+  "+1 629": {
+    "country": "United States",
+    "state": "Tennessee",
+    "stateCode": "TN"
+  },
+  "+1 630": {
+    "country": "United States",
+    "state": "Illinois",
+    "stateCode": "IL"
+  },
+  "+1 631": {
+    "country": "United States",
+    "state": "New York",
+    "stateCode": "NY"
+  },
+  "+1 636": {
+    "country": "United States",
+    "state": "Missouri",
+    "stateCode": "MO"
+  },
+  "+1 639": {
+    "country": "Canada",
+    "state": "Saskatchewan"
+  },
+  "+1 640": {
+    "country": "United States",
+    "state": "New Jersey",
+    "stateCode": "NJ"
+  },
+  "+1 641": {
+    "country": "United States",
+    "state": "Iowa",
+    "stateCode": "IA"
+  },
+  "+1 646": {
+    "country": "United States",
+    "state": "New York",
+    "stateCode": "NY"
+  },
+  "+1 647": {
+    "country": "Canada",
+    "state": "Ontario"
+  },
+  "+1 650": {
+    "country": "United States",
+    "state": "California",
+    "stateCode": "CA"
+  },
+  "+1 651": {
+    "country": "United States",
+    "state": "Minnesota",
+    "stateCode": "MN"
+  },
+  "+1 657": {
+    "country": "United States",
+    "state": "California",
+    "stateCode": "CA"
+  },
+  "+1 658": {
+    "country": "United States",
+    "state": "Jamaica"
+  },
+  "+1 659": {
+    "country": "United States",
+    "state": "Alabama",
+    "stateCode": "AL"
+  },
+  "+1 660": {
+    "country": "United States",
+    "state": "Missouri",
+    "stateCode": "MO"
+  },
+  "+1 661": {
+    "country": "United States",
+    "state": "California",
+    "stateCode": "CA"
+  },
+  "+1 662": {
+    "country": "United States",
+    "state": "Mississippi",
+    "stateCode": "MS"
+  },
+  "+1 664": {
+    "country": "United States",
+    "state": "Montserrat"
+  },
+  "+1 667": {
+    "country": "United States",
+    "state": "Maryland",
+    "stateCode": "MD"
+  },
+  "+1 669": {
+    "country": "United States",
+    "state": "California",
+    "stateCode": "CA"
+  },
+  "+1 672": {
+    "country": "Canada",
+    "state": "British Columbia"
+  },
+  "+1 678": {
+    "country": "United States",
+    "state": "Georgia",
+    "stateCode": "GA"
+  },
+  "+1 679": {
+    "country": "United States",
+    "state": "Michigan",
+    "stateCode": "MI"
+  },
+  "+1 680": {
+    "country": "United States",
+    "state": "New York",
+    "stateCode": "NY"
+  },
+  "+1 681": {
+    "country": "United States",
+    "state": "West Virginia",
+    "stateCode": "WV"
+  },
+  "+1 682": {
+    "country": "United States",
+    "state": "Texas",
+    "stateCode": "TX"
+  },
+  "+1 689": {
+    "country": "United States",
+    "state": "Florida",
+    "stateCode": "FL"
+  },
+  "+1 701": {
+    "country": "United States",
+    "state": "North Dakota",
+    "stateCode": "ND"
+  },
+  "+1 702": {
+    "country": "United States",
+    "state": "Nevada",
+    "stateCode": "NV"
+  },
+  "+1 703": {
+    "country": "United States",
+    "state": "Virginia",
+    "stateCode": "VA"
+  },
+  "+1 704": {
+    "country": "United States",
+    "state": "North Carolina",
+    "stateCode": "NC"
+  },
+  "+1 705": {
+    "country": "United States",
+    "state": "Ontario"
+  },
+  "+1 706": {
+    "country": "United States",
+    "state": "Georgia",
+    "stateCode": "GA"
+  },
+  "+1 707": {
+    "country": "United States",
+    "state": "California",
+    "stateCode": "CA"
+  },
+  "+1 708": {
+    "country": "United States",
+    "state": "Illinois",
+    "stateCode": "IL"
+  },
+  "+1 709": {
+    "country": "Canada",
+    "state": "Newfoundland And Labrador"
+  },
+  "+1 712": {
+    "country": "United States",
+    "state": "Iowa",
+    "stateCode": "IA"
+  },
+  "+1 713": {
+    "country": "United States",
+    "state": "Texas",
+    "stateCode": "TX"
+  },
+  "+1 714": {
+    "country": "United States",
+    "state": "California",
+    "stateCode": "CA"
+  },
+  "+1 715": {
+    "country": "United States",
+    "state": "Wisconsin",
+    "stateCode": "WI"
+  },
+  "+1 716": {
+    "country": "United States",
+    "state": "New York",
+    "stateCode": "NY"
+  },
+  "+1 717": {
+    "country": "United States",
+    "state": "Pennsylvania",
+    "stateCode": "PA"
+  },
+  "+1 718": {
+    "country": "United States",
+    "state": "New York",
+    "stateCode": "NY"
+  },
+  "+1 719": {
+    "country": "United States",
+    "state": "Colorado",
+    "stateCode": "CO"
+  },
+  "+1 720": {
+    "country": "United States",
+    "state": "Colorado",
+    "stateCode": "CO"
+  },
+  "+1 721": {
+    "country": "United States",
+    "state": "Sint Maarten"
+  },
+  "+1 724": {
+    "country": "United States",
+    "state": "Pennsylvania",
+    "stateCode": "PA"
+  },
+  "+1 725": {
+    "country": "United States",
+    "state": "Nevada",
+    "stateCode": "NV"
+  },
+  "+1 726": {
+    "country": "United States",
+    "state": "Texas",
+    "stateCode": "TX"
+  },
+  "+1 727": {
+    "country": "United States",
+    "state": "Florida",
+    "stateCode": "FL"
+  },
+  "+1 730": {
+    "country": "United States",
+    "state": "Illinois",
+    "stateCode": "IL"
+  },
+  "+1 731": {
+    "country": "United States",
+    "state": "Tennessee",
+    "stateCode": "TN"
+  },
+  "+1 732": {
+    "country": "United States",
+    "state": "New Jersey",
+    "stateCode": "NJ"
+  },
+  "+1 734": {
+    "country": "United States",
+    "state": "Michigan",
+    "stateCode": "MI"
+  },
+  "+1 737": {
+    "country": "United States",
+    "state": "Texas",
+    "stateCode": "TX"
+  },
+  "+1 740": {
+    "country": "United States",
+    "state": "Ohio",
+    "stateCode": "OH"
+  },
+  "+1 743": {
+    "country": "United States",
+    "state": "North Carolina",
+    "stateCode": "NC"
+  },
+  "+1 747": {
+    "country": "United States",
+    "state": "California",
+    "stateCode": "CA"
+  },
+  "+1 754": {
+    "country": "United States",
+    "state": "Florida",
+    "stateCode": "FL"
+  },
+  "+1 757": {
+    "country": "United States",
+    "state": "Virginia",
+    "stateCode": "VA"
+  },
+  "+1 760": {
+    "country": "United States",
+    "state": "California",
+    "stateCode": "CA"
+  },
+  "+1 762": {
+    "country": "United States",
+    "state": "Georgia",
+    "stateCode": "GA"
+  },
+  "+1 763": {
+    "country": "United States",
+    "state": "Minnesota",
+    "stateCode": "MN"
+  },
+  "+1 765": {
+    "country": "United States",
+    "state": "Indiana",
+    "stateCode": "IN"
+  },
+  "+1 769": {
+    "country": "United States",
+    "state": "Mississippi",
+    "stateCode": "MS"
+  },
+  "+1 770": {
+    "country": "United States",
+    "state": "Georgia",
+    "stateCode": "GA"
+  },
+  "+1 772": {
+    "country": "United States",
+    "state": "Florida",
+    "stateCode": "FL"
+  },
+  "+1 773": {
+    "country": "United States",
+    "state": "Illinois",
+    "stateCode": "IL"
+  },
+  "+1 774": {
+    "country": "United States",
+    "state": "Massachusetts",
+    "stateCode": "MA"
+  },
+  "+1 775": {
+    "country": "United States",
+    "state": "Nevada",
+    "stateCode": "NV"
+  },
+  "+1 778": {
+    "country": "Canada",
+    "state": "British Columbia"
+  },
+  "+1 779": {
+    "country": "United States",
+    "state": "Illinois",
+    "stateCode": "IL"
+  },
+  "+1 780": {
+    "country": "United States",
+    "state": "Alberta"
+  },
+  "+1 781": {
+    "country": "Canada",
+    "state": "Massachusetts",
+    "stateCode": "MA"
+  },
+  "+1 782": {
+    "country": "Canada",
+    "state": "Nova Scotia Prince Edward Island"
+  },
+  "+1 785": {
+    "country": "United States",
+    "state": "Kansas",
+    "stateCode": "KS"
+  },
+  "+1 786": {
+    "country": "United States",
+    "state": "Florida",
+    "stateCode": "FL"
+  },
+  "+1 801": {
+    "country": "United States",
+    "state": "Utah",
+    "stateCode": "UT"
+  },
+  "+1 802": {
+    "country": "United States",
+    "state": "Vermont",
+    "stateCode": "VT"
+  },
+  "+1 803": {
+    "country": "United States",
+    "state": "South Carolina",
+    "stateCode": "SC"
+  },
+  "+1 804": {
+    "country": "United States",
+    "state": "Virginia",
+    "stateCode": "VA"
+  },
+  "+1 805": {
+    "country": "United States",
+    "state": "California",
+    "stateCode": "CA"
+  },
+  "+1 806": {
+    "country": "United States",
+    "state": "Texas",
+    "stateCode": "TX"
+  },
+  "+1 807": {
+    "country": "United States",
+    "state": "Ontario"
+  },
+  "+1 810": {
+    "country": "United States",
+    "state": "Michigan",
+    "stateCode": "MI"
+  },
+  "+1 812": {
+    "country": "United States",
+    "state": "Indiana",
+    "stateCode": "IN"
+  },
+  "+1 813": {
+    "country": "United States",
+    "state": "Florida",
+    "stateCode": "FL"
+  },
+  "+1 814": {
+    "country": "United States",
+    "state": "Pennsylvania",
+    "stateCode": "PA"
+  },
+  "+1 815": {
+    "country": "United States",
+    "state": "Illinois",
+    "stateCode": "IL"
+  },
+  "+1 816": {
+    "country": "United States",
+    "state": "Missouri",
+    "stateCode": "MO"
+  },
+  "+1 817": {
+    "country": "United States",
+    "state": "Texas",
+    "stateCode": "TX"
+  },
+  "+1 818": {
+    "country": "United States",
+    "state": "California",
+    "stateCode": "CA"
+  },
+  "+1 819": {
+    "country": "United States",
+    "state": "Quebec"
+  },
+  "+1 820": {
+    "country": "United States",
+    "state": "California",
+    "stateCode": "CA"
+  },
+  "+1 825": {
+    "country": "United States",
+    "state": "Alberta"
+  },
+  "+1 828": {
+    "country": "United States",
+    "state": "North Carolina",
+    "stateCode": "NC"
+  },
+  "+1 829": {
+    "country": "United States",
+    "state": "Dominican Republic"
+  },
+  "+1 830": {
+    "country": "United States",
+    "state": "Texas",
+    "stateCode": "TX"
+  },
+  "+1 831": {
+    "country": "United States",
+    "state": "California",
+    "stateCode": "CA"
+  },
+  "+1 832": {
+    "country": "United States",
+    "state": "Texas",
+    "stateCode": "TX"
+  },
+  "+1 838": {
+    "country": "United States",
+    "state": "New York",
+    "stateCode": "NY"
+  },
+  "+1 843": {
+    "country": "United States",
+    "state": "South Carolina",
+    "stateCode": "SC"
+  },
+  "+1 845": {
+    "country": "United States",
+    "state": "New York",
+    "stateCode": "NY"
+  },
+  "+1 847": {
+    "country": "United States",
+    "state": "Illinois",
+    "stateCode": "IL"
+  },
+  "+1 848": {
+    "country": "United States",
+    "state": "New Jersey",
+    "stateCode": "NJ"
+  },
+  "+1 849": {
+    "country": "United States",
+    "state": "Dominican Republic"
+  },
+  "+1 850": {
+    "country": "United States",
+    "state": "Florida",
+    "stateCode": "FL"
+  },
+  "+1 854": {
+    "country": "United States",
+    "state": "South Carolina",
+    "stateCode": "SC"
+  },
+  "+1 856": {
+    "country": "United States",
+    "state": "New Jersey",
+    "stateCode": "NJ"
+  },
+  "+1 857": {
+    "country": "United States",
+    "state": "Massachusetts",
+    "stateCode": "MA"
+  },
+  "+1 858": {
+    "country": "United States",
+    "state": "California",
+    "stateCode": "CA"
+  },
+  "+1 859": {
+    "country": "United States",
+    "state": "Kentucky",
+    "stateCode": "KY"
+  },
+  "+1 860": {
+    "country": "United States",
+    "state": "Connecticut",
+    "stateCode": "CT"
+  },
+  "+1 862": {
+    "country": "United States",
+    "state": "New Jersey",
+    "stateCode": "NJ"
+  },
+  "+1 863": {
+    "country": "United States",
+    "state": "Florida",
+    "stateCode": "FL"
+  },
+  "+1 864": {
+    "country": "United States",
+    "state": "South Carolina",
+    "stateCode": "SC"
+  },
+  "+1 865": {
+    "country": "United States",
+    "state": "Tennessee",
+    "stateCode": "TN"
+  },
+  "+1 867": {
+    "country": "Canada",
+    "state": "Yukon, NW Terr., Nunavut"
+  },
+  "+1 870": {
+    "country": "United States",
+    "state": "Arkansas",
+    "stateCode": "AR"
+  },
+  "+1 872": {
+    "country": "United States",
+    "state": "Illinois",
+    "stateCode": "IL"
+  },
+  "+1 873": {
+    "country": "United States",
+    "state": "Quebec"
+  },
+  "+1 878": {
+    "country": "United States",
+    "state": "Pennsylvania",
+    "stateCode": "PA"
+  },
+  "+1 879": {
+    "country": "Canada",
+    "state": "Newfoundland And Labrador"
+  },
+  "+1 901": {
+    "country": "United States",
+    "state": "Tennessee",
+    "stateCode": "TN"
+  },
+  "+1 902": {
+    "country": "Canada",
+    "state": "Nova Scotia Prince Edward Island"
+  },
+  "+1 903": {
+    "country": "United States",
+    "state": "Texas",
+    "stateCode": "TX"
+  },
+  "+1 904": {
+    "country": "United States",
+    "state": "Florida",
+    "stateCode": "FL"
+  },
+  "+1 905": {
+    "country": "United States",
+    "state": "Ontario"
+  },
+  "+1 906": {
+    "country": "United States",
+    "state": "Michigan",
+    "stateCode": "MI"
+  },
+  "+1 907": {
+    "country": "United States",
+    "state": "Alaska",
+    "stateCode": "AK"
+  },
+  "+1 908": {
+    "country": "United States",
+    "state": "New Jersey",
+    "stateCode": "NJ"
+  },
+  "+1 909": {
+    "country": "United States",
+    "state": "California",
+    "stateCode": "CA"
+  },
+  "+1 910": {
+    "country": "United States",
+    "state": "North Carolina",
+    "stateCode": "NC"
+  },
+  "+1 912": {
+    "country": "United States",
+    "state": "Georgia",
+    "stateCode": "GA"
+  },
+  "+1 913": {
+    "country": "United States",
+    "state": "Kansas",
+    "stateCode": "KS"
+  },
+  "+1 914": {
+    "country": "United States",
+    "state": "New York",
+    "stateCode": "NY"
+  },
+  "+1 915": {
+    "country": "United States",
+    "state": "Texas",
+    "stateCode": "TX"
+  },
+  "+1 916": {
+    "country": "United States",
+    "state": "California",
+    "stateCode": "CA"
+  },
+  "+1 917": {
+    "country": "United States",
+    "state": "New York",
+    "stateCode": "NY"
+  },
+  "+1 918": {
+    "country": "United States",
+    "state": "Oklahoma",
+    "stateCode": "OK"
+  },
+  "+1 919": {
+    "country": "United States",
+    "state": "North Carolina",
+    "stateCode": "NC"
+  },
+  "+1 920": {
+    "country": "United States",
+    "state": "Wisconsin",
+    "stateCode": "WI"
+  },
+  "+1 925": {
+    "country": "United States",
+    "state": "California",
+    "stateCode": "CA"
+  },
+  "+1 928": {
+    "country": "United States",
+    "state": "Arizona",
+    "stateCode": "AZ"
+  },
+  "+1 929": {
+    "country": "United States",
+    "state": "New York",
+    "stateCode": "NY"
+  },
+  "+1 930": {
+    "country": "United States",
+    "state": "Indiana",
+    "stateCode": "IN"
+  },
+  "+1 931": {
+    "country": "United States",
+    "state": "Tennessee",
+    "stateCode": "TN"
+  },
+  "+1 934": {
+    "country": "United States",
+    "state": "New York",
+    "stateCode": "NY"
+  },
+  "+1 936": {
+    "country": "United States",
+    "state": "Texas",
+    "stateCode": "TX"
+  },
+  "+1 937": {
+    "country": "United States",
+    "state": "Ohio",
+    "stateCode": "OH"
+  },
+  "+1 938": {
+    "country": "United States",
+    "state": "Alabama",
+    "stateCode": "AL"
+  },
+  "+1 939": {
+    "country": "United States",
+    "state": "Puerto Rico",
+    "stateCode": "PR"
+  },
+  "+1 940": {
+    "country": "United States",
+    "state": "Texas",
+    "stateCode": "TX"
+  },
+  "+1 941": {
+    "country": "United States",
+    "state": "Florida",
+    "stateCode": "FL"
+  },
+  "+1 947": {
+    "country": "United States",
+    "state": "Michigan",
+    "stateCode": "MI"
+  },
+  "+1 949": {
+    "country": "United States",
+    "state": "California",
+    "stateCode": "CA"
+  },
+  "+1 951": {
+    "country": "United States",
+    "state": "California",
+    "stateCode": "CA"
+  },
+  "+1 952": {
+    "country": "United States",
+    "state": "Minnesota",
+    "stateCode": "MN"
+  },
+  "+1 954": {
+    "country": "United States",
+    "state": "Florida",
+    "stateCode": "FL"
+  },
+  "+1 956": {
+    "country": "United States",
+    "state": "Texas",
+    "stateCode": "TX"
+  },
+  "+1 959": {
+    "country": "United States",
+    "state": "Connecticut",
+    "stateCode": "CT"
+  },
+  "+1 970": {
+    "country": "United States",
+    "state": "Colorado",
+    "stateCode": "CO"
+  },
+  "+1 971": {
+    "country": "United States",
+    "state": "Oregon",
+    "stateCode": "OR"
+  },
+  "+1 972": {
+    "country": "United States",
+    "state": "Texas",
+    "stateCode": "TX"
+  },
+  "+1 973": {
+    "country": "United States",
+    "state": "New Jersey",
+    "stateCode": "NJ"
+  },
+  "+1 975": {
+    "country": "United States",
+    "state": "Missouri",
+    "stateCode": "MO"
+  },
+  "+1 978": {
+    "country": "United States",
+    "state": "Massachusetts",
+    "stateCode": "MA"
+  },
+  "+1 979": {
+    "country": "United States",
+    "state": "Texas",
+    "stateCode": "TX"
+  },
+  "+1 980": {
+    "country": "United States",
+    "state": "North Carolina",
+    "stateCode": "NC"
+  },
+  "+1 984": {
+    "country": "United States",
+    "state": "North Carolina",
+    "stateCode": "NC"
+  },
+  "+1 985": {
+    "country": "United States",
+    "state": "Louisiana",
+    "stateCode": "LA"
+  },
+  "+1 986": {
+    "country": "United States",
+    "state": "Idaho",
+    "stateCode": "ID"
+  },
+  "+1 989": {
+    "country": "United States",
+    "state": "Michigan",
+    "stateCode": "MI"
+  }
+}
